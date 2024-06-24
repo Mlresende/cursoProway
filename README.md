@@ -65,8 +65,8 @@ Os operadores aritméticos em Java são utilizados para realizar operações mat
 Os principais operadores são:
 
 - `+` (adição)
-- - (subtração)
-- * (multiplicação)
+- `-` (subtração)
+- `*` (multiplicação)
 - `/` (divisão)
 - `%` (resto da divisão)
 
