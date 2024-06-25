@@ -235,8 +235,19 @@ public class Dados {
 
 ---
 
-Orientações a Objeto - Aula 13 - (Estudando)
+## Orientações a Objeto
 
----
+Classe - É um elemento de um projeto que consegue expressar em variáveis oq eu tenho no mundo real. Vai existir as declarações de variáveis, os construtores até que ela se torne viva, um texto. não é um objeto.
 
-Encerramento
+Método - Uma forma de fazer algo.
+
+Atributo - Contem informações inerentes a classe. Vão se tornar futuramente em uma coluna no banco de dados.
+
+Instanciação - Criar um objeto.
+
+Encapsulamento - Blindar os atributos dentro da classe, para que outra classe externa não consiga enxergar a variável original
+
+Herança - herdar alguns atributos de outra classe.
+
+Polimorfismo é um conceito fundamental na programação orientada a objetos (POO) que permite que objetos de diferentes classes sejam tratados como objetos de uma classe comum. Mais especificamente, refere-se à capacidade de diferentes classes responderem de maneira diferente à mesma mensagem (ou método).
+
